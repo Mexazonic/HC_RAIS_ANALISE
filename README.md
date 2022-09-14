@@ -1,5 +1,6 @@
 # HC_RAIS_ANALISE
 
+[Link do Ensaio](https://docs.google.com/document/d/1SlTzCf22V2bHqd-fmjWKeZzUDkpuPWHc/edit?usp=sharing&ouid=102952981495840237811&rtpof=true&sd=true)
 
 ### Introdução
 Os gráficos que estão apresentados no ***notebook*** tiveram por base, dados extraídos da Base de Dados Mais, especificamente da tabela de Relação Anual de Informações Sociais (RAIS). Inicialmente, foram realizadas as requisições sobre os anos desejados, como forma de filtrar apenas os períodos pertinentes para a pesquisa. Posteriormente, foram realizados tratamentos nos dados coletados utilizando as ferramentas e bibliotecas de manipulação e análise de dados mediante a linguagem de programação python, a biblioteca pandas e também a plataforma Jupyter Notebook como motor de integração. Possibilitando assim, a visualização e o cruzamento dos dados previamente armazenados.
@@ -25,9 +26,4 @@ Codigo   | Nome
 2123-05|Administrador de banco de dados
 
 ### Referência
-@software{Base_dos_Dados_Base_dos_Dados,
-author = {{Base dos Dados}},
-license = {MIT},
-title = {{Base dos Dados Mais}},
-url = {https://github.com/basedosdados/mais}
-}
+Base dos Dados. Base dos Dados Mais [Computer software]. https://github.com/basedosdados/mais
