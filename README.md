@@ -7,7 +7,7 @@ Os gráficos que estão apresentados no ***notebook*** tiveram por base, dados e
 
 ### RAIS TI
 As análises são pertinentes as seguintes profissões
-Codigo   | Nome
+Codigo Profissão   | Nome
 --------- | ------
 3171-10 | Técnico em programação de computador
 1425 | GERENTES DE TECNOLOGIA DA INFORMAÇÃO
